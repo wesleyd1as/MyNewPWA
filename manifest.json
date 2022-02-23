@@ -4,8 +4,6 @@
   "theme_color": "#ff0000",
   "background_color": "#ff0000",
   "display": "standalone",
-  "Scope": "/index.php",
-  "start_url": "/",
   "icons": [
     {
       "src": "https://files.softicons.com/download/application-icons/hex-icons-pack-by-martz90/png/512x512/browser.png",
